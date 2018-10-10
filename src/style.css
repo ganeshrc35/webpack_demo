@@ -7,8 +7,8 @@
  }
 
 .hello {
-  color: red;
-  background: url('./icon.png');
+  color: blue;
+  /*background: url('./royal-enfield-new-pegasus-1.jpg');
   background-repeat: no-repeat;
-  font-family: 'MyFont';
+  font-family: 'MyFont';*/
 }
